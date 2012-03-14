@@ -1,0 +1,28 @@
+/* FONT STACK */
+body,
+input, select, textarea {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.1;
+}
+
+.hero-unit-small {
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: #f5f5f5;
+    border-radius : 6px;
+}
+
+.hero-unit-small h1 {
+    margin-bottom: 0;
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+.hero-unit-small p {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 25px;
+}

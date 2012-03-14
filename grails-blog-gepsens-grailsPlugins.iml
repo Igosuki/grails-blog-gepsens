@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/twitter-bootstrap-2.0.1.21/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/twitter-bootstrap-2.0.1.21/grails-app/views" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/jquery-1.7.1/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/grails-app/views" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/taggable-1.0.1/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1/grails-app/views" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/grails-app/domain" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/commentable-0.8.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/hibernate-2.0.1" />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/jquery-1.7.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/jquery-1.7.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/jquery-1.7.1/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/jquery-1.7.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/jquery-1.7.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/resources-1.1.6">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/resources-1.1.6/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/resources-1.1.6/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/resources-1.1.6/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/resources-1.1.6/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1/grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1/grails-app/domain" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/simple-blog-0.2.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/taggable-1.0.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/taggable-1.0.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/taggable-1.0.1/grails-app/domain" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/taggable-1.0.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/taggable-1.0.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/tomcat-2.0.1" />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/twitter-bootstrap-2.0.1.21">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/twitter-bootstrap-2.0.1.21/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/twitter-bootstrap-2.0.1.21/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/webxml-1.4.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="grails-2.0.1" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library (grails-blog-gepsens-grailsPlugins)">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5/lib" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.hamcrest/hamcrest-library/jars/hamcrest-library-1.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.gmock/gmock/jars/gmock-0.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/.grails/2.0.1/projects/blog/plugins/feeds-1.5/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
